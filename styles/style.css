@@ -9,8 +9,8 @@ html {
 }
 
 .page {
-    min-height: 802px;
-    max-height: 802px;
+    display: flex;
+    align-items: center;
     inline-size: 1200px;
     block-size: 100%;
     margin: auto;
@@ -54,6 +54,8 @@ ol {
 }
 
 .content {
+    min-height: 802px;
+    max-height: 802px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
