@@ -228,7 +228,7 @@ ol {
     height: 100%;
     flex-direction: column;
     gap: 26px;
-    justify-content: flex-end;
+    justify-content: flex-start;
     width: 0;
     flex: 0 0 399px;
 }
